@@ -4,7 +4,7 @@ export default {
   
       // prompt - simple completion style input
       let simple = {
-        prompt: 'Tell me a joke about Cloudflare'
+        prompt: 'Give me some sustainablity statistics in the world right now.'
       };
       let response = await env.AI.run('@cf/meta/llama-3-8b-instruct', simple);
       tasks.push({ inputs: simple, response });
