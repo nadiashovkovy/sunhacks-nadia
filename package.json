@@ -1,12 +1,12 @@
 {
     "type": "module",
-    "name": "nadiaandbradysaiapp",
+    "name": "sunhacks-sustainify",
     "version": "1.0.0",
     "lockfileVersion": 3,
     "requires": true,
     "packages": {
       "": {
-        "name": "nadiaandbradysaiapp",
+        "name": "sunhacks-sustainify",
         "version": "1.0.0",
         "license": "ISC"
       }
